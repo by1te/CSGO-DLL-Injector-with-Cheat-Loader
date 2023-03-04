@@ -1,6 +1,8 @@
 # CSGO-DLL-Injector-Loader
 CSGO DLL Injector & Loader with a clean UI written in C#
 
+Telegram: https://t.me/byte_csgo
+
 **Preview:**
 
 

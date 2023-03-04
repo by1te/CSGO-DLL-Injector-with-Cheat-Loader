@@ -1,4 +1,4 @@
-# CSGO-DLL-Injector
+# CSGO-DLL-Injector-Loader
 CSGO DLL Injector with a clean UI written in C#
 
 **Preview:**
